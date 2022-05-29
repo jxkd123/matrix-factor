@@ -9,6 +9,11 @@ MultiFactorModel
 
 https://github.com/MingkaiLee/MultiFactorModel
 
+数据预处理及因子计算 ：从规模、估值、成长、盈利、技术等维度筛选出十几个具有长期稳定选股能力的因子，进行缺失值、去极值、标准化、市值和行业中性化处理。
+收益预测模型 ：我们最后要优化的目标函数中的预期收益通过因子IR加权法计算获得，各因子权重值为各因子在滚动时间内平均IR值在所有因子在滚动时间内平均IR值之和中的占比，因子在滚动时间内平均IR值越大，说明该因子在选股时作用越大，权重也越大，反之亦然。
+
+https://github.com/algo21-221040012/Assignment1/blob/master/factor.csv
+
 ICRank IR
 
 1.什么是IC/IR？
