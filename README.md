@@ -18,6 +18,9 @@ https://github.com/bearbro/TextClusteringAnalysis
 爬取同花顺的股票（A股）信息并构建金融知识图谱
 https://github.com/bearbro/kg
 
+https://github.com/FreeFlyXiaoMa/knowledge_graph_demo_
+https://github.com/M0025/KnowledgeGraphOfA-shareCompanys
+
 仓库
 https://github.com/bearbro?tab=repositories
 
