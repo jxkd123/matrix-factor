@@ -6,9 +6,20 @@ https://github.com/dreamquark-ai/tabnet
 
 股票预测的代码整理
 
+Stock_Price_Prediction_Model
 https://github.com/bearbro/Stock_Price_Prediction_Model/tree/ea87b402d0c85dba7de154d8bbbb73216d195cf7
 
+Financial-Knowledge-Graphs
+https://github.com/bearbro/Financial-Knowledge-Graphs
+
+TextClusteringAnalysis 
+https://github.com/bearbro/TextClusteringAnalysis
+
+仓库
 https://github.com/bearbro?tab=repositories
+
+PyTorch 中文手册
+https://github.com/bearbro/pytorch-handbook
 
 一个完整的多因子量化项目, 包括：串起数据、因子筛选&合成、回测等诸多细节，成为下一步更实战的量化投资做准备。
 https://github.com/piginzoo/mfm_learner/blob/169537b84c2add70bd4ef52e997bfea7f48b685e/example
