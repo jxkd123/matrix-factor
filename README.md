@@ -1,4 +1,6 @@
 # matrix-factor
+https://github.com/Harvey-Sun/World_Quant_Alphas
+
 
 https://github.com/google-research/google-research/tree/master/tabnet
 pytorch version:
