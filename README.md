@@ -3,6 +3,32 @@ https://github.com/Harvey-Sun/World_Quant_Alphas
 
 https://github.com/piginzoo/mfm_learner/tree/169537b84c2add70bd4ef52e997bfea7f48b685e/example
 
+
+https://github.com/Weiwei-Ch/AI-trading-alpha.git
+https://github.com/Quant132/BackTrader_Multifactors.git
+https://github.com/SAmmer0/GeneralLib.git
+https://github.com/hugo2046/GetAstockFactors.git
+https://github.com/LHospitalLKY/JointQuant_Learning.git
+https://github.com/a1137261060/Multi-Factor-Models.git
+https://github.com/ChannelCMT/OFO.git
+https://github.com/ChannelCMT/QS.git
+https://github.com/ChannelCMT/QTC_2.0.git
+https://github.com/Miya-Su/Quantitative-Trading.git
+https://github.com/hugo2046/Quantitative-analysis.git
+https://github.com/JoshuaQYH/TIDIBEI
+https://github.com/zhangjinzhi/Wind_Python.git
+https://github.com/lc-sysbs/alpha101.git
+https://github.com/lc-sysbs/alpha101-new.git
+https://github.com/phonegapX/alphasickle.git
+https://github.com/iLampard/alphaware.git
+https://github.com/jcchao/deeplearning-for-quant.git
+https://github.com/Hatonnlatwiira/factor-model-tushare.git
+https://github.com/jiangtiantu/factorhub.git
+https://github.com/Jensenberg/multi-factor.git
+https://github.com/Spark3122/multifactor.git
+https://github.com/ricequant/rqalpha.git
+
+
 https://github.com/google-research/google-research/tree/master/tabnet
 pytorch version:
 https://github.com/dreamquark-ai/tabnet
