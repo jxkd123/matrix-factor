@@ -1,6 +1,7 @@
 # matrix-factor
 https://github.com/Harvey-Sun/World_Quant_Alphas
 
+https://github.com/piginzoo/mfm_learner/tree/169537b84c2add70bd4ef52e997bfea7f48b685e/example
 
 https://github.com/google-research/google-research/tree/master/tabnet
 pytorch version:
